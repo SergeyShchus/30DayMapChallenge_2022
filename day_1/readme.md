@@ -1,7 +1,7 @@
 
 ## Point
 
-
+### Fire and destroyed in Ukraine (June 2022) 
 
 
 [Var-1](https://sergeyshchus.github.io/GIS-API/Fire_and_destroyed_june_2022.html)
